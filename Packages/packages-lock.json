@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.agava.vkgames": {
-      "version": "file:VKGames",
+      "version": "file:com.agava.vkgames",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}
